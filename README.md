@@ -34,6 +34,6 @@ This repository contains the certificates I earned through the **Infosys Springb
 │   ├── ESSENTIALS_OF_CC.pdf
 │   ├── INTRODUCTION_TO_NoSQL.pdf
 │   ├── INTRODUCTION_TO_R.pdf
-│   ├── COURSE_PROGRESS.pdf
+│   ├── COURSE_PROGRESS.jpg
 │
 └── README.md
